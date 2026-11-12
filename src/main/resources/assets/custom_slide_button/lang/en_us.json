@@ -1,0 +1,8 @@
+{
+  "key.custom_slide_button.open": "Open Slide Button",
+  "category.custom_slide_button.controls": "Custom Slide Button",
+  "screen.custom_slide_button.title": "Slide Button",
+  "screen.custom_slide_button.value": "Value: %d%%",
+  "screen.custom_slide_button.done": "Done",
+  "screen.custom_slide_button.hint": "Drag the control or use the arrow keys"
+}

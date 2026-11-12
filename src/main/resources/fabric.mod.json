@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "custom_slide_button",
+  "version": "${version}",
+  "name": "Custom Slide Button",
+  "description": "Adds a polished, interactive slider screen to Minecraft.",
+  "authors": ["EnderDevelopment"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "main": [
+      "com.example.customslidebutton.CustomSlideButtonMod"
+    ],
+    "client": [
+      "com.example.customslidebutton.CustomSlideButtonClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.5",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": ">=0.107.0+1.21.1"
+  }
+}
